@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/Hackathon-5XA"> 
-      <img src="../assets/team5xalogo.jpg" width="150" alt="Logo"/>
+      <img src="./assets/team5xalogo.jpg" width="150" alt="Logo"/>
    </a>
    <br/>
    <h2>Welcome to 5XA! 🌟</h2>
